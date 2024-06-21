@@ -1,1 +1,2 @@
 Arquivo criado no repositório remoto para aprendizado da aula 6 dos conceitos do git
+caramba! eu consigo editar um repositório pelo celular, que massa!
